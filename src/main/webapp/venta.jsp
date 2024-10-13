@@ -81,7 +81,7 @@
       </div>
         <div class="ed-item offset-25 web-50">
             <form class="ed-item main-center" name="_xclick" target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-            <!-- <form class="ed-item main-center" name="_xclick" target="paypal" action="https://www.sandbox.paypal.com/cgi-bin/webscr" method="post"> -->
+             <!--<form class="ed-item main-center" name="_xclick" target="paypal" action="https://www.sandbox.paypal.com/cgi-bin/webscr" method="post">--> 
                 <input type="hidden" name="cmd" value="_xclick">
                 <input type="hidden" name="business" value="edstyles-colombia@outlook.com">
                 <input type="hidden" name="currency_code" value="USD">
